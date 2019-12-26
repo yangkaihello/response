@@ -1,0 +1,13 @@
+{
+    "name": "yangkai/response",
+    "description": "response",
+    "require": {
+        "php": "^7.1"
+    },
+    "authors": [
+        {
+            "name": "yangkai",
+            "email": "444655291@qq.com"
+        }
+    ]
+}
