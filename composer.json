@@ -9,5 +9,8 @@
             "name": "yangkai",
             "email": "444655291@qq.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {"yangkai\\response\\": ""}
+    }
 }
